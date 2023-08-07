@@ -55,5 +55,3 @@ To ensure the user can't exit kiosk mode, you'll want to disable certain key com
 
 ### Optimization:
 If this kiosk will be running 24/7, you might also consider optimizations such as disabling screen blanking, ensuring there's an auto-reboot schedule (in case of any crashes), and monitoring the system for any unforeseen issues.
-
-And there you have it! A simple kiosk setup using Ubuntu and Chromium. Let me know if you need further insights or have any specific queries related to this setup. Best of luck with your new business and the tech endeavors, Nate!
