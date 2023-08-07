@@ -5,9 +5,8 @@ Make Kiosk with a Raspberry Pi 4 and Ubuntu 2022.04 LTS
 If you haven't already, install Ubuntu. Once that's done, make sure everything's up-to-date:
 ``` bash
 sudo apt update && sudo apt upgrade
-Then, install Chromium:
 ```
-
+Then, install Chromium:
 ``` bash
 sudo apt install chromium-browser
 ```
